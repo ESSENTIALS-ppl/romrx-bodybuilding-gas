@@ -3,7 +3,7 @@
 // Miami Vice x Golden Era Bodybuilding
 // ============================================
 // SETUP: Replace SHEET_ID with your Google Sheet ID
-var SHEET_ID   = 'YOUR_GOOGLE_SHEET_ID_HERE';
+var SHEET_ID   = '1CWrLP4z_RXrBrnwmzPkabAxoWWT7-T2KxQyG9yRaops';
 var ADMIN_CODE = 'ROMRXBB_ADMIN_2026'; // Change before launch
 
 // ==========================================
